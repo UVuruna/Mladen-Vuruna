@@ -43,3 +43,6 @@ temp/
 
 # Claude communication
 prompt.txt
+
+# Owner inbox - local only (root Rule #18)
+UV/
